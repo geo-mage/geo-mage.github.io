@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About the project
 
-You can use the [editor on GitHub](https://github.com/geo-mage/geo-mage.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+*Mapping Aerial imagery with Game Engine data* (MAGE, 2022-2026) is a deep learning and Earth Observation research project funded by the JCJC program of the [Agence Nationale de la Recherche](https://anr.fr/) (ANR).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+International satellite constellations such as Sentinel-2 and national high resolution imaging programs such as SPOT or BDORTHO in France have made Earth Observation (EO) data abundant. However, this data is unlabeled, i.e. misses semantic information useful to train machine learning (ML) models for downstream applications.
 
-### Markdown
+While the fast response time of AI models would strongly benefit rapid mapping applications, the Copernicus Emergency Management Service mostly rely on expert interpretation of remote sensing imagery to quickly deliver geo-data for disaster management (flooding, seismic events, refugee camps…). Since disasters are rare events, datasets are even scarcer than usual. When faced with this issue, autonomous driving introduced learning on simulations and games, especially to generate simulations of rare events that are expensive to acquire in real life. As tools such as CityEngine now produce plausible digital twins of cities, simulating EO data with various environmental conditions becomes feasible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geo-mage/geo-mage.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This research project aims to bring all of those tools together to unlock the power of simulated data and deep learning for rapid disaster mapping based on EO imagery. We will leverage game engines to produce simulated aerial views of cities before and after a disaster (flood, earthquake or fire). These images will act as supervised training data, in addition to the existing big real unlabeled EO data. To improve the realism of simulated images, we will design domain adaptation techniques based on generative models to bridge the perceptual gap between synthetic and real EO images. We will then conceive semi-supervised training algorithms for semantic segmentation based on self-supervised learning with pretext tasks suitable for EO data. This will allow us to train deep models with high generalization ability to perform post-disaster high-precision mapping to detect damaged buildings, find the most affected areas and help navigation of emergency services.
