@@ -14,5 +14,5 @@ This research project aims to bring all of those tools together to unlock the po
 
 This project is funded through the ANR Young Researchers (*Jeunes Chercheurs/Jeunes Chercheuses*) program.
 
-![Logo of the ANR](images/anr_logo.png){:height="60px"}
-![Logo of the Cnam/Cédric laboratory](images/cedric_cnam.png){:height="60px"}
+![Logo of the ANR](images/anr_logo.png){:height="40px"}
+![Logo of the Cnam/Cédric laboratory](images/cedric_cnam.png){:height="40px"}
