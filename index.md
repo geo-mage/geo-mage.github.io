@@ -1,6 +1,13 @@
-# 🛰 About the project
+# 🛰 MAGE: Mapping Aerial imagery with Game Engine data
 
 *Mapping Aerial imagery with Game Engine data* (MAGE, 2022-2026) is a deep learning and Earth Observation research project funded by the JCJC program of the [Agence Nationale de la Recherche](https://anr.fr/) (ANR).
+
+## News
+
+* January 27, 2023: scientific kick-off at Cnam/Cédric.
+* January 16, 2023: Georges Le Bellier joins the team as a PhD student on domain adaptation and self-supervised learning on remote sensing data. He will be advised by Nicolas Audebert, Nicolas Thome and Marin Ferecatu.
+
+## About the project
 
 International satellite constellations such as Sentinel-2 and national high resolution imaging programs such as SPOT or BDORTHO in France have made Earth Observation (EO) data abundant. However, this data is unlabeled, i.e. misses semantic information useful to train machine learning (ML) models for downstream applications.
 

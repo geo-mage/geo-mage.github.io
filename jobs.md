@@ -1,4 +1,4 @@
-# Jobs offers
+# 🏙 Jobs offers
 
 📣 We are currently looking for three fully funded positions. All job offers are located in the center of Paris (France) and are full-time positions.
 
