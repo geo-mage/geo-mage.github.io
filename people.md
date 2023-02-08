@@ -7,6 +7,7 @@
 ## Members
 
 * [Georges Le Bellier](https://fr.linkedin.com/in/georges-le-bellier) (Cnam/Cédric): PhD student (domain adaptation, self-supervised learning)
+* Armand Verstraete (Cnam/Cédric): research engineer (aerial image simulation)
 
 ## Collaborators
 
