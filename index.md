@@ -4,9 +4,9 @@
 
 ## News
 
-* February 13, 2023: Armand Verstraete joins the project as a research engineer. He will work on developing the simulation and rendering tool to produce synthetic aerial images of urban environments.
-* January 27, 2023: scientific kick-off at Cnam/Cédric.
-* January 16, 2023: Georges Le Bellier joins the team as a PhD student on domain adaptation and self-supervised learning on remote sensing data. He will be advised by Nicolas Audebert, Nicolas Thome and Marin Ferecatu.
+* **February 13, 2023:** Armand Verstraete joins the project as a research engineer. He will work on developing the simulation and rendering tool to produce synthetic aerial images of urban environments.
+* **January 27, 2023:** scientific kick-off at Cnam/Cédric.
+* **January 16, 2023:** Georges Le Bellier joins the team as a PhD student on domain adaptation and self-supervised learning on remote sensing data. He will be advised by Nicolas Audebert, Nicolas Thome and Marin Ferecatu.
 
 ## About the project
 
