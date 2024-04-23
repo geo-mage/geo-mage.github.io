@@ -4,6 +4,8 @@
 
 Authors: Georges Le Bellier, Nicolas Audebert
 
+🔗 [arXiv](https://arxiv.org/abs/2404.12667) [HAL](https://hal.science/hal-04551408/)
+
 **EarthVision 2024** (CVPR workshop)
 
 Earth Observation imagery can capture rare and unusual events, such as disasters and major landscape changes, whose visual appearance contrasts with the usual observations. Deep models trained on common remote sensing data will output drastically different features for these out-of-distribution samples, compared to those closer to their training dataset.
