@@ -4,6 +4,7 @@
 
 ## News
 
+* **April 20, 2024:** Our [first paper](publications.md) on detecting out-of-distribution remote sensing images with diffusion models has been accepted at EarthVision 2024 (CVPR workshop)!
 * **March 1st, 2023:** Valerio Marsocci joines the project as a postdoctoral fellow. His work will focus on self-supervised learning for Earth Observation data.
 * **February 13, 2023:** Armand Verstraete joins the project as a research engineer. He will work on developing the simulation and rendering tool to produce synthetic aerial images of urban environments.
 * **January 27, 2023:** scientific kick-off at Cnam/Cédric.

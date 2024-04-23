@@ -4,9 +4,10 @@
 
 Authors: Georges Le Bellier, Nicolas Audebert
 
-🔗 [arXiv](https://arxiv.org/abs/2404.12667) [HAL](https://hal.science/hal-04551408/)
+🔗 [arXiv](https://arxiv.org/abs/2404.12667) 🔗 [HAL](https://hal.science/hal-04551408/)
 
 **EarthVision 2024** (CVPR workshop)
+https://www.grss-ieee.org/events/earthvision-2024/
 
 Earth Observation imagery can capture rare and unusual events, such as disasters and major landscape changes, whose visual appearance contrasts with the usual observations. Deep models trained on common remote sensing data will output drastically different features for these out-of-distribution samples, compared to those closer to their training dataset.
 Detecting them could therefore help anticipate changes in the observations, either geographical or environmental.
