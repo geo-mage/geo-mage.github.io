@@ -1,5 +1,16 @@
 # Publications
 
+## Cross-sensor self-supervised training and alignment for remote sensing
+
+Authors: Valerio Marsocci, Nicolas Audebert
+
+🔗 [arXiv](https://arxiv.org/abs/2405.09922) 🔗 [HAL](https://hal.science/hal-04576064)
+
+**Preprint**
+
+Large-scale "foundation models" have gained traction as a way to leverage the vast amounts of unlabeled remote sensing data collected every day. However, due to the multiplicity of Earth Observation satellites, these models should learn "sensor agnostic" representations, that generalize across sensor characteristics with minimal fine-tuning. This is complicated by data availability, as low-resolution imagery, such as Sentinel-2 and Landsat-8 data, are available in large amounts, while very high-resolution aerial or satellite data is less common. To tackle these challenges, we introduce cross-sensor self-supervised training and alignment for remote sensing (X-STARS). We design a self-supervised training loss, the Multi-Sensor Alignment Dense loss (MSAD), to align representations across sensors, even with vastly different resolutions. Our X-STARS can be applied to train models from scratch, or to adapt large models pretrained on e.g low-resolution EO data to new high-resolution sensors, in a continual pretraining framework. We collect and release MSC-France, a new multi-sensor dataset, on which we train our X-STARS models, then evaluated on seven downstream classification and segmentation tasks. We demonstrate that X-STARS outperforms the state-of-the-art by a significant margin with less data across various conditions of data availability and resolutions. 
+
+
 ##  Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models
 
 Authors: Georges Le Bellier, Nicolas Audebert
