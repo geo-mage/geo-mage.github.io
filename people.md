@@ -8,7 +8,7 @@
 
 * [Georges Le Bellier](https://fr.linkedin.com/in/georges-le-bellier) (Cnam/Cédric): PhD student (domain adaptation, self-supervised learning)
 * [Valerio Marsocci](https://sites.google.com/uniroma1.it/valeriomarsocci) (Cnam/Cédric): postdoctoral researcher (self-supervised learning)
-* Armand Verstraete (Cnam/Cédric): research engineer (aerial image simulation)
+* Héloïse Verstraete (Cnam/Cédric): research engineer (aerial image simulation)
 
 ## Collaborators
 

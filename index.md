@@ -4,10 +4,14 @@
 
 ## News
 
-* **May 16, 2024:** New [preprint](publications.md) on self-supervised adaptation of pretrained labels to new sensors. We show better representations of optical imagery with less data than existing SSL methods.
+* **November 10, 2025:** [New paper](publications.md) on unsupervised domain adaptation for remote sensing imagery. We introduce FlowEO, a flow matching based image translation models that outperform existing approaches in many scenarios, including SAR-to-optical translation and temporal domain adaptation.
+* **June 27, 2025:** The alpha release of WorldWeaver, our procedural generator of low-fidelity digital twins based on Blender, has been released on [GitHub](https://github.com/geo-mage/worldweaver).
+* **April 28, 2025:** X-STARS has been accepted for publication into the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.
+* **December 5, 2024:** Several MAGE project members were involved into the design of PANGAEA, a new benchmark to evaluate large pretrained models for Earth Observation, now released on [GitHub](https://github.com/VMarsocci/pangaea-bench).
+* **May 16, 2024:** New [preprint](publications.md) on self-supervised adaptation of pretrained labels to new sensors. We introduce X-STARS, a continual self-training strategy that shows better representations of optical imagery with less data than existing SSL methods.
 * **April 20, 2024:** Our [first paper](publications.md) on detecting out-of-distribution remote sensing images with diffusion models has been accepted at EarthVision 2024 (CVPR workshop)!
 * **March 1st, 2023:** Valerio Marsocci joines the project as a postdoctoral fellow. His work will focus on self-supervised learning for Earth Observation data.
-* **February 13, 2023:** Armand Verstraete joins the project as a research engineer. He will work on developing the simulation and rendering tool to produce synthetic aerial images of urban environments.
+* **February 13, 2023:** Héloïse Verstraete joins the project as a research engineer. She will work on developing the simulation and rendering tool to produce synthetic aerial images of urban environments.
 * **January 27, 2023:** scientific kick-off at Cnam/Cédric.
 * **January 16, 2023:** Georges Le Bellier joins the team as a PhD student on domain adaptation and self-supervised learning on remote sensing data. He will be advised by Nicolas Audebert, Nicolas Thome and Marin Ferecatu.
 
